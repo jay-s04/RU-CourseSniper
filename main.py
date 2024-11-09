@@ -23,3 +23,7 @@ while (True):
   for section in numsOfSections:
     if section in open_sections:
       print("THERE IS A SECTION OPEN WITH THE CODE " + section)
+    else:
+      print("NOpe")
+
+print("Hello World")
